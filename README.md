@@ -1,2 +1,0 @@
-# image-hosting
-Image Hosting
